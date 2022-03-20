@@ -1,0 +1,15 @@
+C:\Users\Enes\source\repos\OtoparkOtomasyonu\OtoparkOtomasyonu\bin\Debug\OtoparkOtomasyonu.exe.config
+C:\Users\Enes\source\repos\OtoparkOtomasyonu\OtoparkOtomasyonu\bin\Debug\OtoparkOtomasyonu.exe
+C:\Users\Enes\source\repos\OtoparkOtomasyonu\OtoparkOtomasyonu\bin\Debug\OtoparkOtomasyonu.pdb
+C:\Users\Enes\source\repos\OtoparkOtomasyonu\OtoparkOtomasyonu\obj\Debug\OtoparkOtomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Enes\source\repos\OtoparkOtomasyonu\OtoparkOtomasyonu\obj\Debug\OtoparkOtomasyonu.Properties.Resources.resources
+C:\Users\Enes\source\repos\OtoparkOtomasyonu\OtoparkOtomasyonu\obj\Debug\OtoparkOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Enes\source\repos\OtoparkOtomasyonu\OtoparkOtomasyonu\obj\Debug\OtoparkOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Enes\source\repos\OtoparkOtomasyonu\OtoparkOtomasyonu\obj\Debug\OtoparkOtomasyonu.exe
+C:\Users\Enes\source\repos\OtoparkOtomasyonu\OtoparkOtomasyonu\obj\Debug\OtoparkOtomasyonu.pdb
+C:\Users\Enes\source\repos\OtoparkOtomasyonu\OtoparkOtomasyonu\obj\Debug\OtoparkOtomasyonu.FormAnasayfa.resources
+C:\Users\Enes\source\repos\OtoparkOtomasyonu\OtoparkOtomasyonu\obj\Debug\OtoparkOtomasyonu.FormAracYonetimi.resources
+C:\Users\Enes\source\repos\OtoparkOtomasyonu\OtoparkOtomasyonu\obj\Debug\OtoparkOtomasyonu.FormAyarlar.resources
+C:\Users\Enes\source\repos\OtoparkOtomasyonu\OtoparkOtomasyonu\obj\Debug\OtoparkOtomasyonu.FormMain.resources
+C:\Users\Enes\source\repos\OtoparkOtomasyonu\OtoparkOtomasyonu\obj\Debug\OtoparkOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\Enes\source\repos\OtoparkOtomasyonu\OtoparkOtomasyonu\obj\Debug\OtoparkOtomasyonu.FormGecmis.resources
